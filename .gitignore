@@ -1,3 +1,6 @@
 *.mp4
 example_images/*.png
+*.jpeg
+*.jpg
+__pycache__
 
